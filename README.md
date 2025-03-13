@@ -1,3 +1,3 @@
 this is a sample code for java
-this is samples
+this is sample
 
